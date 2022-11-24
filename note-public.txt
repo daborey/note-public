@@ -3,3 +3,4 @@ watch movies and tv series https://www.firesticktricks.com/watch-tv-shows-online
 watch movies https://tinyzonetv.to/
 update npm 1. npm install -g npm-windows-upgrade 2. npm-windows-upgrade
 watch fifa and football full match: https://footyfull.com/
+watch fifa and football hightlight match: https://streamgoals.com/highlight
