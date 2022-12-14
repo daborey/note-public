@@ -4,3 +4,6 @@ html projects
 - ecommerce store
 - calculator
 
+music player youtube
+- https://youtu.be/oscPp3KghS8?t=122
+
