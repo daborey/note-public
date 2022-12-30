@@ -95,3 +95,5 @@ bookmarkfolder play store app to create shortcut address
 1245
 វេបសាយចាក់បាល់ https://2mb.asia/
 
+UI refers to the screens, buttons, toggles, icons, and other visual elements that you interact with when using a website, app, or other electronic device. UX refers to the entire interaction you have with a product, including how you feel about the interaction.
+
