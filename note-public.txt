@@ -101,3 +101,4 @@ UI refers to the screens, buttons, toggles, icons, and other visual elements tha
 
 chinese android store: mobile.baidu.com
 សាលាភាសាបរទេស ចិនអង់គ្លេស https://web.facebook.com/seals4/
+Chinese text grabber image to text https://www.i2ocr.com/
