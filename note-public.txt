@@ -108,4 +108,6 @@ official size logo and design https://www.youtube.com/watch?v=pppNpObstoI
 1.
 3000px x 3000px 
 dpi : 300
+window
+disable password expiration wmic UserAccount set PasswordExpires=False (use cmd as admin)
 
