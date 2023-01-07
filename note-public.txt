@@ -56,7 +56,7 @@ windscribe
 
 ***computer driver***
 --------------------------------------------------------------------------------------------------------------------------
-xiaomi driver: https://www.mi.com/service/notebook/drivers
+xiaomi driver: https://www.mi.com/service/notebook/drivers my model serial number : 21326
 --------------------------------------------------------------------------------------------------------------------------
 
 ***window's software and phone's software***
