@@ -110,4 +110,4 @@ official size logo and design https://www.youtube.com/watch?v=pppNpObstoI
 dpi : 300
 window
 disable password expiration wmic UserAccount set PasswordExpires=False (use cmd as admin)
-
+download computer program filehippo
