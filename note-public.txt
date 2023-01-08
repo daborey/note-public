@@ -4,6 +4,7 @@ download youtube video https://youtubeto.org
 watch movies and tv series https://www.firesticktricks.com/watch-tv-shows-online-for-free.html
 watch movies https://tinyzonetv.to/
 watch movies https://hdtoday.tv *
+watch movies https://lookmovie2.to/
 update npm 1. npm install -g npm-windows-upgrade 2. npm-windows-upgrade
 watch fifa and football full match: https://footyfull.com/
 watch fifa and football hightlight long match: https://streamgoals.com/highlight
@@ -111,3 +112,4 @@ dpi : 300
 window
 disable password expiration wmic UserAccount set PasswordExpires=False (use cmd as admin)
 download computer program filehippo
+
