@@ -112,4 +112,4 @@ dpi : 300
 window
 disable password expiration wmic UserAccount set PasswordExpires=False (use cmd as admin)
 download computer program filehippo
-
+scan barcode inside phone iphone: bakodo:https://apps.apple.com/us/app/bakodo-barcode-scanner-and-qr-bar-code-reader/id371932548 android: smart scanner qr/barcode scanner pro :https://play.google.com/store/apps/details?id=com.barcode.qrcode.scanner.reader.pro&hl=en_US&gl=US
